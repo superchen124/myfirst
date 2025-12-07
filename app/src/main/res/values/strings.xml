@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">bytedance</string>
+    <string name="transition_avatar">transition_avatar</string>
+    <string name="transition_card">transition_card</string>
+</resources>
